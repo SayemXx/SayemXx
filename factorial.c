@@ -8,6 +8,6 @@ int main(){
         fac=fac*a;
         printf("%d * ",a);
     }
-    printf("=The factorial of %d is : %d",n,fac);
+    printf("= The factorial of %d is : %d",n,fac);
     return 0;
 }
