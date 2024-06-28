@@ -14,7 +14,7 @@ int main(){
     float a,b;
     printf("\n\nFor calculet the Area of a squar Enter ---s'\n\tFor calculet the Area of a carcle Enter ---c\n\t\tFor calculet the Area of a rectangular Enter--r\n\n ");
     char c;
-    for(int a=0;a<10;a++){
+    for( a=1;a<=5;a++){
                       printf("Enter :");
                       scanf("%c",&c);;
                       if(c=='s'){
@@ -22,7 +22,7 @@ int main(){
                          printf("\nEnter the side value of a squar :");
                          scanf("%f",&a);
                          sqa(a);
-                         
+                         break;
                      }
                       else if(c=='c'){
                          printf("\n\n---------------------------------------------CASRCLE----------------------------------------------------\n");
@@ -33,9 +33,9 @@ int main(){
                      }  
                       else if(c=='r'){
                          printf("\n\n---------------------------------------------RECTANGULER--------------------------------------------------\n");
-                          printf("\nEnter the length of rectanguler :");
+                         printf("\nEnter the length of rectanguler :");
                          scanf("%f",&a);
-                          printf("\nEnter the width of a rectanguler :");
+                         printf("\nEnter the width of a rectanguler :");
                          scanf("%f",&b);
                          rca(a,b); 
                          break;
