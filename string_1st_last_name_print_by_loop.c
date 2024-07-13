@@ -10,7 +10,6 @@ int p(char *ptr){
     char ln[]="Leon.";
     p(fn);
     p(mn);
-
     p(ln);
     return 0;
    }

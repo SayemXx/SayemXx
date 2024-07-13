@@ -14,7 +14,6 @@ int main(){
         printf("Enter the %dst mark :",a+1);
         scanf("%d",&mark[a]);
     }
-    int *pir=&mark[0];
-    fun(mark[0],n);
+    fun(mark,n);
 return 0;
 }
