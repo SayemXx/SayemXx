@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Sayem
 ### 💻 CSE Student | Passionate about Coding & Problem Solving
 
-🌱 Currently learning **C programming**, **Data Structures**, and **Algorithms**  
-🚀 Interested in **Web Development** & **Software Engineering**  
-🧠 Exploring **Qt 6**, **C++**, and **GUI Development**
+🌱 Currently learning **C & C++ programming**, **Data Structures**, and **Algorithms**  
+🚀 Interested in **Web Development**, **AI** & **Software Engineering**  
+🧠 Exploring **Qt 6**, **Full Stack Web Development**, and **GUI Development**
 
 ---
 
