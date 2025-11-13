@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7EF&center=false&vCenter=true&width=800&lines=Hi+there!+I'm+Sayem+👋;A+curious+CSE+student+from+Bangladesh+🌏;Passionate+about+AI%2C+Machine+Learning%2C+and+Software+Development+🤖;I+love+building+projects+and+exploring+new+technologies+🚀;Always+learning%2C+improving%2C+and+creating+with+code!+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7EF&center=false&vCenter=true&width=800&lines=Assalamualaiku!+I'm+Sayem+👋;A+curious+CSE+student+from+Bangladesh+🌏;Passionate+about+AI%2C+and+Software+Development+🤖;I+love+building+projects+🚀;Always+learning+and+improving+with+code!+💡)](https://git.io/typing-svg)
 
 🌱 Currently learning **C & C++**, **Data Structures**, and **Algorithms**  
 🚀 Exploring **AI**, **Web Development**, and **Software Engineering**  
@@ -44,8 +44,7 @@
 
 ## ✨ Fun Fact
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7EF&center=false&vCenter=true&width=700&lines=I+believe+in+consistency%2C+creativity%2C+and+continuous+learning!;Debugging+is+like+solving+a+detective+case+in+code!;Coffee+%2B+Code+%3D+The+perfect+combo+%E2%98%95%EF%B8%8F;I+turn+coffee+into+logic+and+errors+into+lessons!+😄)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7EF&center=false&vCenter=true&width=700&lines=I+believe+in+creativity+with+hard+work+!;Debugging+is+like+solving+a+detective+case+in+code!;Coffee+%2B+Code+%2B+Music+%3D+The+perfect+combo+%E2%98%95%EF%B8%8F;I+turn+coffee+into+logic+and+errors+into+lessons!+😄)](https://git.io/typing-svg)
 
 ---
 
