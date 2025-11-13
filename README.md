@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sayem+👋;CSE+Student+💻;Passionate+about+AI+and+Machine+Learning+🤖;Always+learning+new+tech!+🚀)](https://git.io/typing-svg)
-
-# 👋 Hi there, I'm Sayem  
-### 💻 CSE Student | Passionate about Coding & Problem Solving
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7EF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Sayem+👋;A+Curious+CSE+Student+from+Bangladesh+🌏;Passionate+about+AI%2C+Machine+Learning+%26+Software+Development+🤖;I+love+to+build+cool+projects+and+learn+new+technologies+🚀;Always+improving+myself+through+code+%26+creativity!+💡)](https://git.io/typing-svg)
 
 🌱 Currently learning **C & C++**, **Data Structures**, and **Algorithms**  
 🚀 Exploring **AI**, **Web Development**, and **Software Engineering**  
