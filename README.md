@@ -28,4 +28,4 @@
 
 📫 **Connect with me:**  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SayemXx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayem-islam-leon-98b467305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayem-islam-leon-98b467305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
