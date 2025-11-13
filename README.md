@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sayem
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sayem+👋;CSE+Student+💻;Passionate+about+AI+and+Machine+Learning+🤖;Always+learning+new+tech!+🚀)](https://git.io/typing-svg)
 ### 💻 CSE Student | Passionate about Coding & Problem Solving
 
 🌱 Currently learning **C & C++ programming**, **Data Structures**, and **Algorithms**  
@@ -25,48 +25,34 @@
 📈 Currently improving through problem-solving & open-source learning.
 
 ---
-## 📊 My GitHub Stats
 
-![Sayem's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
----
-
-## 🛠️ Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sayem+👋;CSE+Student+💻;Passionate+about+AI+and+Machine+Learning+🤖;Always+learning+new+tech!+🚀)](https://git.io/typing-svg)
 ## 📊 My GitHub Stats
 ![Sayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
 
+---
+
+## 🛠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
-## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 ## 📈 Contribution Graph
 ![Sayem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night)
 
-### ✨ Fun Fact
-I believe in consistency, creativity & continuous learning! 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
+
+## ✨ Fun Fact
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&width=500&lines=I+believe+in+consistency%2C+creativity+%26+continuous+learning!;Debugging+is+like+a+detective+story+with+code!;Coffee+%2B+Code+%3D+Perfect+Combo+%E2%98%95%EF%B8%8F;I+turn+coffee+into+logic+and+errors+into+lessons!)](https://git.io/typing-svg)
+
+---
+
 ⭐️ From [SayemCodes](https://github.com/YourGitHubUsername)
 
+---
 
 📫 **Connect with me:**  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SayemXx)
